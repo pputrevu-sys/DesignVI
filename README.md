@@ -10,7 +10,8 @@ My name is Pre Putrevu, and I am a 4/5 Computer Engineering Student here at Stev
 ## Past Projects 
 
 ### Python Card Game
-`class Card:
+```python
+class Card:
  suit_list = ["Clubs", "Diamonds", "Hearts", "Spades"]
  rank_list = ["none", "Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", 
 "Jack", "Queen", "King"]
@@ -56,7 +57,8 @@ class Deck:
  break
  card = self.pop_card()
  current_player = i % n_players
- hands[current_player].add_card(card)`
+ hands[current_player].add_card(card)
+```
 
 ## Class Details
 **Meeting Time**: Monday 10:00 AM to 11:50 AM
