@@ -60,9 +60,6 @@ class Deck:
  hands[current_player].add_card(card)
 ```
 
-### Amplifier + Crossover Filter Network
-![](<img width="1080" alt="image" src="https://github.com/pputrevu-sys/DesignVI/assets/123091224/7161f394-30b7-434d-8de2-998f853008e3">)
-
 ## Class Details
 **Meeting Time**: Monday 10:00 AM to 11:50 AM
 
