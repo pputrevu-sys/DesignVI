@@ -63,11 +63,11 @@ class Deck:
 ![Screenshot](screenshot.jpg)
 
 ## Class Details
-`**Meeting Time**`: Monday 10:00 AM to 11:50 AM
+**Meeting Time**: `Monday 10:00 AM to 11:50 AM`
 
-`**Location**`: Babbio Center 104
+**Location**: `Babbio Center 104`
 
-`**Instructor**`: Dr. Kevin Lu
+**Instructor**: `Dr. Kevin Lu`
 
 ## Course Schedule 2024 Spring
 1. 2024-01-22 Lesson 0: Syllabus
