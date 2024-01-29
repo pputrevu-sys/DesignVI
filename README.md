@@ -9,7 +9,7 @@ My name is Pre Putrevu, and I am a 4/5 Computer Engineering Student here at Stev
 
 ## Past Projects 
 
-### Python Card Game
+### ==Python Card Game==
 ```python
 class Card:
  suit_list = ["Clubs", "Diamonds", "Hearts", "Spades"]
@@ -59,7 +59,7 @@ class Deck:
  current_player = i % n_players
  hands[current_player].add_card(card)
 ```
-### Amplifier and Crossover Filter Network
+### ==Amplifier and Crossover Filter Network==
 ![Screenshot](screenshot.jpg)
 
 ## Class Details
