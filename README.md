@@ -59,6 +59,8 @@ class Deck:
  current_player = i % n_players
  hands[current_player].add_card(card)
 ```
+### Amplifier and Crossover Filter Network
+![](Screenshot 2023-12-10 165117.png)
 
 ## Class Details
 **Meeting Time**: Monday 10:00 AM to 11:50 AM
