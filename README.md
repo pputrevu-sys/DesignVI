@@ -4,6 +4,9 @@ Lecture-Lab-Study: 1-3-2
 
 Credits: 2
 
+> I find it so amazing when people tell me that electronic music has no soul. You can’t blame the computer. If there’s no soul in the music, it’s because nobody put it there.
+-- bjork
+
 ## Summary
 My name is Pre Putrevu, and I am a 4/5 Computer Engineering Student here at Stevens Tech. I am excited for all the learning opportunities Design VI has to offer. 😁
 
