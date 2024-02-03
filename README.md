@@ -8,7 +8,7 @@ Credits: 2
 > -- bjork
 
 ## Summary
-My name is Pre Putrevu, and I am a 4/5 Computer Engineering Student here at Stevens Tech. I am excited for all the learning opportunities Design VI has to offer. 😁
+My name is Pre Putrevu, and I am a Computer Engineering Student here at Stevens Tech. I am excited for all the learning opportunities Design VI has to offer. 😁
 
 ## Past Projects 
 
