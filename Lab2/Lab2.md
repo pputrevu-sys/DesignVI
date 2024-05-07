@@ -58,7 +58,7 @@ ipconfig
 ping localhost
 ```
 ***ping stats***
-![Alt text](Screenshot 2024-05-06 000932.png)
+![Alt text](Screenshot%202024-05-06%20000932.png)
 ![Alt text](Screenshot 2024-05-06 000941.png)
 ![Alt text](Screenshot 2024-05-06 001005.png)
 ![Alt text](Screenshot 2024-05-06 001017.png)
